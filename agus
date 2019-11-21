@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 group-title="AGUS'MOVIES",png"HBO ID
+http://203.207.56.228/live/iptv005.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",HBO Family ID
+http://203.207.56.228/live/iptv004.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",HBO Hits ID
+http://203.207.56.228/live/iptv007.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",HBO Signature ID
+http://203.207.56.228/live/iptv006.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
+#EXTINF:-1 group-title="AGUS'MOVIES",FOX FAMILY MOVIES
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
+#EXTINF:-1 group-title="AGUS'MOVIES",FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
+#EXTINF:-1 group-title="AGUS'MOVIES",FOX MOVIES ID
+http://203.207.56.228/live/iptv034.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",FOX ACTION
+http://203.207.56.228/live/iptv029.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",Sony One
+http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/1707
+#EXTINF:-1 group-title="AGUS'MOVIES",SONY ONE
+http://210.210.155.35/session/a3ebedb4-512d-11e9-bf37-c81f66f89318/uq2663/h/h143/index.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",CELESTIAL MOVIES
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",CELESTIAL
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",THRILL
+http://210.210.155.35/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",BLUE ANT ENTERTAINMENT
+http://210.210.155.35/dr9445/h/h16/02.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",BLUE ANT EXTREME
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",Entertainment E!
+http://rr.dens.tv/h/h10/index.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",DIVA
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",M AXN FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23125
+#EXTINF:-1 group-title="AGUS'MOVIES",SYFY FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23123
+#EXTINF:-1 group-title="AGUS'MOVIES",HBO
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",HBO HITS
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",HBOSignature
+https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",FoxActionHD
+https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",FoxActionHD
+https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",FoxMoviesTH
+https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",FoxMoviesHD
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",FoxFamilyHD
+https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",FoxFamilyHD
+https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",Fox
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",AXN-2
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",MY CINEMA
+http://210.210.155.69/s/s31/S4/mnf.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E1456D3DFA5E82D535A8FA&profile=pass
+#EXTINF:-1 group-title="AGUS'MOVIES",DIRECTV Cinema
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 group-title="AGUS'MOVIES",Cinema +
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",TV Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="AGUS'MOVIES",Portal Fox Mix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",Film"MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",Film"SONY CHANEL
+http://210.210.155.35/uq2663/h/h142/01.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",Star Movies HD
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",TV Movies
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideA
+#EXTINF:-1 group-title="AGUS'MOVIES",E! Entertainment TV(2)
+http://210.210.155.66/h/h10/02.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",CINEMA WORD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",CINEMA WORLD(2)
+http://210.210.155.66/h/h04/02.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",ZEE BIOSKOP
+http://210.210.155.35/session/9b11be32-6a30-11e9-9e00-ade6bb5dc228/qwr9ew/s/s32/02.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",&Prive HD
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:-1 group-title="AGUS'MOVIES",ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",Fashion TV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",Fashion TV MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",Egg Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",Channel 8 Singapore
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 group-title="AGUS'MOVIES",WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 group-title="AGUS'MOVIES",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="AGUS'MOVIES",Pluto Movies 2
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="AGUS'MOVIES",HOME AND LIVING
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b906000.m3u8
