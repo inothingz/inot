@@ -1,166 +1,95 @@
 #EXTM3U
-#EXTINF:-1,Skynet hd
+#EXTINF:-1 ,Skynet hd
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-
-#EXTINF:-1,Skynet 1
+#EXTINF:-1 ,Skynet 1
 https://livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-
-#EXTINF:-1,Skynet 6
+#EXTINF:-1 ,Skynet 6
 https://livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
-
-#EXTINF:-1,SKYNET SPORT 5
+#EXTINF:-1 ,SKYNET SPORT 5
 https://livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-
-#EXTINF:-1,SKYNET SPORT 2
+#EXTINF:-1 ,SKYNET SPORT 2
 https://livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-
-#EXTINF:-1,Skynetsport1
+#EXTINF:-1 ,Skynetsport1
 https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-
-#EXTINF:-1,Skynetsport2
+#EXTINF:-1 ,Skynetsport2
 https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-
-#EXTINF:-1,Skynetsport3
+#EXTINF:-1 ,Skynetsport3
 https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
-
-#EXTINF:-1,Skynetsport5
+#EXTINF:-1 ,Skynetsport5
 https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-
-#EXTINF:-1,Skynetsport6
+#EXTINF:-1 ,Skynetsport6
 https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
-
-#EXTINF:-1,DMAX
+#EXTINF:-1 ,DMAX
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,DMAX
-https://tv4.live/api/stream/renegate320@outlook.com/59zoto/livetv.epg/dmax.it.m3u8
-
-#EXTINF:-1,TDT2-DMAX
+#EXTINF:-1 ,TDT2-DMAX
 http://62.210.103.33:9090/play/a02m
-
-#EXTINF:-1,|DE| DMAX HD
-http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2683
-
-#EXTINF:-1,Dmax HD
+#EXTINF:-1 ,Dmax HD
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
-
-#EXTINF:-1,fox sports
+#EXTINF:-1 ,fox sports
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunklist_b528441_sleng.m3u8
-
-#EXTINF:-1,fox sports
+#EXTINF:-1 ,fox sports
 http://198.255.23.18:2095/streams/56_.m3u8
-
-#EXTINF:-1,Portal Fox Mix
+#EXTINF:-1 ,Portal Fox Mix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-
-#EXTINF:-1,FOX SPORTS
+#EXTINF:-1 ,FOX SPORTS
 http://45.126.83.51/uq2663/h/h19/index.m3u8
-
-#EXTINF:-1,FOX MOVIES ACTION
+#EXTINF:-1 ,FOX MOVIES ACTION
 http://45.126.83.51/uq2663/h/h22/index.m3u8
-
-#EXTINF:-1,FOXlife
+#EXTINF:-1 ,FOXlife
 http://45.126.83.51/uq2663/h/h03/index.m3u8
-
-#EXTINF:-1,Fox Life
-http://balancer1.ottmex.com:8081/BKR/Foxlife.TecnoByte/playlist.m3u8
-
-#EXTINF:-1,Fox
-http://balancer1.ottmex.com:8081/BKR/Fox.BKR/playlist.m3u8
-
-#EXTINF:-1,Fox Premium Action
-http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/playlist.m3u8
-
-#EXTINF:-1,Fox Series
-http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/playlist.m3u8
-
-#EXTINF:-1,Fox Family
-http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/playlist.m3u8
-
-#EXTINF:-1,Fox Sports
-http://balancer1.ottmex.com:8081/BKR/FoxSports1.BKR/playlist.m3u8
-
-#EXTINF:-1,Fox Sports 2
-http://balancer1.ottmex.com:8081/BKR/FoxSports2.BKR/playlist.m3u8
-
-#EXTINF:-1,Fox Sports 3
-http://balancer1.ottmex.com:8081/BKR/FoxSports3.BKR/playlist.m3u8
-
-#EXTINF:-1,Portal Fox Mix
+#EXTINF:-1 ,Portal Fox Mix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w414233074.m3u8
-
-#EXTINF:-1,FOX PREMIUM
-http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,FOX FAMILY
-http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,FOX
-http://balancer1.ottmex.com:8081/BKR/Fox.BKR/chunks.m3u8
-
-#EXTINF:-1,HBO 2
+#EXTINF:-1 ,HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1,HBO
+#EXTINF:-1 ,HBO
 https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png
-
-#EXTINF:-1,HBO 2
+#EXTINF:-1 ,HBO 2
 https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png
-
-#EXTINF:-1,HBO Signature
-https://miratv.club/miratvnew/private/upload/hbosignature.png
-
-#EXTINF:-1,HBO
+#EXTINF:-1 ,HBO
 http://tvla.xyz:25461/live/sgjhd4556h/ATnVGK2N/139146.m3u8
-
-#EXTINF:-1,HBO 2
+#EXTINF:-1 ,HBO 2
 http://tvla.xyz:25461/live/sgjhd4556h/ATnVGK2N/139147.m3u8
-
-#EXTINF:-1,HBO FAMILY
+#EXTINF:-1 ,HBO FAMILY
 http://tvla.xyz:25461/live/sgjhd4556h/ATnVGK2N/139163.m3u8
-
-#EXTINF:-1,HBO
+#EXTINF:-1 ,HBO
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
-
-#EXTINF:-1,HBO 2
+#EXTINF:-1 ,HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,HBO
-http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,HBO 2
-http://balancer1.ottmex.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,HBO PLUS
-http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,HBO SIGNATURE
-http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,HBO FAMILY
-http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-
-#EXTINF:-1,RO: HBO Romania
+#EXTINF:-1 ,RO: HBO Romania
 http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49860
-
-#EXTINF:-1,RO: HBO HD RO
-http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49861
-
-#EXTINF:-1,history HD
+#EXTINF:-1 ,history HD
 http://154.58.225.11:8080/history/index.m3u8
-
-#EXTINF:-1,CBeebies
+#EXTINF:-1 ,CBeebies
 http://213.108.224.253:7654/udp/239.239.2.11:1234
-
-#EXTINF:-1,UK: BBC CBeebies HD
+#EXTINF:-1 ,UK: BBC CBeebies HD
 http://s.igiptv.com:8000/Tamim/tamim123/20050
-
-#EXTINF:-1,Egg Network http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1 ,Egg Network http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
-
-#EXTINF:-1,EGG Network
+#EXTINF:-1 ,EGG Network
 http://45.126.83.51/uq2663/h/h22/index.m3u8
-
-#EXTINF:-1,EGG NETWORK ID
+#EXTINF:-1 ,EGG NETWORK ID
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
-
+#EXTINF:-1 ,alliptvlinks.com UK: CBeebies HD
+http://91.235.142.45:80/9GEhq7An4w/aBbhNxOuWH/97232
+#EXTINF:-1 ,alliptvlinks.com UK: CBeebies HD
+http://super59.ddns.net:80/A5RQwHGnkX/9e1z27esBc/97232
+#EXTINF:-1 ,alliptvlinks.com UK: CBeebies HD
+http://91.208.115.182:80/ikUw3Tfzaz/1m0UmAUQaT/97232
+#EXTINF:-1 ,CBeebies
+http://213.108.224.253:7654/udp/239.239.2.11:1234
+#EXTINF:-1 ,UK: BBC CBeebies HD
+http://s.igiptv.com:8000/Tamim/tamim123/20050
+#EXTINF:-1 ,BBC CBeebies PL
+http://tv.msvision.xdns.pro:80/live/XG5NrNK461/y1E6kF349/23427.m3u8
+#EXTINF:-1 ,BBC Cbeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 ,alliptvlinks.com UK: CBeebies HD
+http://91.235.142.45:80/9GEhq7An4w/aBbhNxOuWH/97232
+#EXTINF:-1 ,alliptvlinks.com UK: CBeebies HD
+http://super59.ddns.net:80/A5RQwHGnkX/9e1z27esBc/97232
+#EXTINF:-1 ,alliptvlinks.com UK: CBeebies HD
+http://91.208.115.182:80/ikUw3Tfzaz/1m0UmAUQaT/97232
+#EXTINF:-1 ,CBeebies
+http://213.108.224.253:7654/udp/239.239.2.11:1234
+#EXTINF:-1 ,BBC Cbeebies
+http://51.52.156.22:8888/http/003
