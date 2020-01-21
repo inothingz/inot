@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,EPL 7
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1,EPL 8
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1,EPL 9
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1,EPL 10
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1,EPL 11
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1,UEFA CHAMPIONS LEAGUE
+https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+
+#EXTINF:-1,UEFA CHAMPION LEAGUE 2
+https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
+
+#EXTINF:-1,PREMIER LEAGUE
+https://dl.dropbox.com/s/w1k356vshl0jt6h/beinss1.m3u8?dl=0
+
+#EXTINF:-1,SKY PRIMER LEUGE
+https://sportbox.ws/lba/123/g5/sspl.m3u8
