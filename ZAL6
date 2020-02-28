@@ -1,0 +1,234 @@
+#EXTM3U
+#EXTINF:-1 group-title="JAPAN",NHK World
+http://210.210.155.35/uq2663/h/h23/index1.m3u8
+
+#EXTINF:-1 group-title="USEETV",Useesport
+https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0#EXTM3U
+
+#EXTINF:-1 group-title="USEETV",USEE TV
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
+
+#EXTINF:-1 group-title="USEETV",USEE TVID KU
+https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
+
+#EXTINF:-1 group-title="USEETV",USEE TVRUANG TERAMPIL
+https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
+
+#EXTINF:-1 group-title="INDONESIA",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w63099618_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",ANTV 1
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",ANTV 2
+http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 group-title="INDONESIA",TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",TVRI
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 group-title="INDONESIA",INDOSIAR
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",KOMPAS TV SD
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+
+#EXTINF:-1 group-title="INDONESIA",SCTV SD
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+
+#EXTINF:-1 group-title="NEWS",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="MOVIE",THRILL
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE",NAT GEO WILD 2
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE",NAT GEO WIILD 3
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",TRANS7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1779661610_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",ANTV
+http://210.210.155.35/session/ce9a34fe-1aa3-11ea-975d-ad15b46102b5/qwr9ew/s/s102/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",TRANS TV
+http://210.210.155.35/qwr9ew/s/s100/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w591695661_b1492000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",Kompas TV
+http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1 group-title="KOREA",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1678042997_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",ANTV
+http://210.210.155.35/session/9d97b132-a94d-11e9-b311-c81f66f89318/qwr9ew/s/s102/02.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",INDOSIAR
+http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",TRANS7 HD
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",ANTV HD
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",RAJAWALI TV
+http://210.210.155.35/qwr9ew/s/s12/index2.m3u8
+
+#EXTINF:-1 group-title="SPORTS",Useesport
+https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
+
+#EXTINF:-1 group-title="INDONESIA",KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729486727_b1492000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",RTV
+http://45.126.83.51/qwr9ew/s/s12/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",NET TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA",Trans TV
+https://livetvhooq.akamaized.net:443/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
+
+#EXTINF:-1 group-title="INDONESIA",Trans 7
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",Metro TV
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+#EXTINF:-1 group-title="USEETV",USee Photo
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
+
+#EXTINF:-1 group-title="USEETV",Usee Photo
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
+
+#EXTINF:-1 group-title="USEETV",Usee Prime
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
+
+#EXTINF:-1 group-title="INDONESIA",CNN Indonesia HD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="USEETV",Ruang Terampil*
+https://dl.dropbox.com/s/r6k06vq0sh5og9r/offline.mp4?dl=0
+
+#EXTINF:-1 group-title="USEETV",Usee Photo*
+https://dl.dropbox.com/s/yrtty24zo5tza5s/useephoto.m3u8?dl=0
+
+#EXTINF:-1 group-title="USEETV",Usee Prime*
+https://dl.dropbox.com/s/y0jk8ygflfw2plr/useeprime.m3u8?dl=0
+
+#EXTINF:-1 group-title="USEETV",Usee Sport*
+https://dl.dropbox.com/s/ghbo9eb2b0w793i/useesport.m3u8?dl=0
+
+#EXTINF:-1 group-title="SPORTS",Fox Sport 2
+https://dl.dropbox.com/s/pe1cnxt5vczqer1/foxsport2.m3u8?dl=0
+
+#EXTINF:-1 group-title="SPORTS",Fox Sport 3
+https://dl.dropbox.com/s/ztboeg6qqbe4fni/foxsport3.m3u8?dl=0
+
+#EXTINF:-1 group-title="SPORTS",Golf+
+https://dl.dropbox.com/s/2baf588i4imy0ux/golf.m3u8?dl=0
+
+#EXTINF:-1 group-title="SPORTS",NBA
+https://dl.dropbox.com/s/q7305cobr99toiy/nba.m3u8?dl=0
+
+#EXTINF:-1 group-title="KIDS",Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1 group-title="USEETV",IMC*
+https://dl.dropbox.com/s/pcimgt3f0tbtjly/imc.m3u8?dl=0
+
+#EXTINF:-1 group-title="USEETV",Mugos
+http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
+
+#EXTINF:-1 group-title="USEETV",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 group-title="USEETV",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?
+
+#EXTINF:-1 group-title="USEETV",Bioskop Indonesia*
+https://dl.dropbox.com/s/fqmxl2idfuvi4jz/bioskopindonesia.m3u8?dl=0
+
+#EXTINF:-1group-title="INDONESIA",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1829045216_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="USEETV",Dunia anak*
+https://dl.dropbox.com/s/z5vrf0xnnvwuod5/duniaanak.m3u8?dl=0
+
+#EXTINF:-1 group-title="USEETV",Flik
+https://dl.dropbox.com/s/kqcjuyu250vin2n/flik.m3u8?dl=0
+
+#EXTINF:-1 group-title="USEETV",Galaxy
+https://dl.dropbox.com/s/bf54wwlhsv1xuxg/galaxy.m3u8?dl=0
+
+#EXTINF:-1 group-title="SINGAPORE",Oh!K*
+https://dl.dropbox.com/s/3y5iapuliwfk8hh/oh%21k.m3u8?dl=0
+
+#EXTINF:-1 group-title="KOREA",SBS IN*
+https://dl.dropbox.com/s/oafwbt3qfemneyg/sbsin.m3u8?dl=0
+
+#EXTINF:-1 group-title="JAPAN",Waku Waku Japan*
+https://dl.dropbox.com/s/r8aqjaqzn8vjufp/wakuwaku.m3u8?dl=0
+
+#EXTINF:-1 group-title="KIDS",Warner*
+https://dl.dropbox.com/s/lu9vbxu98sxnrhr/warner.m3u8?dl=0
+
+#EXTINF:-1 group-title="KIDS",Dreamworks*
+https://dl.dropbox.com/s/9m8llnou1kokigs/dreamworks.m3u8?dl=0
+
+#EXTINF:-1 group-title="USEETV",FashionTV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 group-title="KIDS",Spacetoon Plus*
+https://dl.dropbox.com/s/4h2dl5itdsjpwwp/spacetoonplus.m3u8?dl=0
+
+#EXTINF:-1 group-title="MUSIC",T Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",TV One
+http://202.80.222.179/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 group-title="INDONESIA",TRANS TV ++
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1159701384_b384000_sleng.m3u8
