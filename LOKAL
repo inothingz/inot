@@ -1,0 +1,77 @@
+#EXTINF:-1 group-title="RCTI+", RCTI
+https://linier.akamaized.net/live/eds/RCTI/sa_hls/RCTI-avc1_1000000=5.m3u8
+
+#EXTINF:-1 group-title="ITVONLINE", INEWS
+https://live.rctiplus.id/rctiplus/inews_720p-1582983535547-667300.ts
+
+#EXTINF:-1 group-title="RCTI+", INEWS
+https://linier.akamaized.net/live/eds/iNews/sa_hls/iNews-avc1_1000000=3.m3u8
+
+#EXTINF:-1 group-title="VIDIO", SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1582988574~acl=/hls-b/ingest_204_*/*~hmac=93bf816f7e16cf846367749966673be4701f81b467bd24a0736726f865e61c5b/hls-b/ingest_204_720p/index.m3u8
+
+#EXTINF:-1 group-title="ITVONLINE", SCTV
+http://id1.indostreamingtv.com/live/sctv/1072.ts
+
+#EXTINF:-1 group-title="VIDIO", KOMPASTV
+https://etslive-2-vidio-com.akamaized.net/exp=1582988748~acl=/hls-p/ingest_874_*/*~hmac=a9131b84dccbbdb18aa0ac10f95f1c9c5a28f9895b5a06e168e64069dbe63a84/hls-p/ingest_874_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", TVONE
+https://etslive-2-vidio-com.akamaized.net/exp=1582989220~acl=/hls-p/ingest_783_*/*~hmac=3d27751732fa90b6efcd9a468d1b821b297932e055405a63248b320c110c7fb0/hls-p/ingest_783_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", BERITA SATU
+https://etslive-2-vidio-com.akamaized.net/exp=1582989278~acl=/hls-p/ingest_6165_*/*~hmac=41dc8d88ff09fd9b552adb7fe327d27b96f2f390e52ef9a2187d284e0c5cd5c5/hls-p/ingest_6165_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", METROTV
+https://etslive-2-vidio-com.akamaized.net/exp=1582989364~acl=/hls-p/ingest_777_*/*~hmac=dd73d5efa97ecc8ad49df40d049d2204318341f8424155094d97532131c9043e/hls-p/ingest_777_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", O CHANNEL
+https://etslive-2-vidio-com.akamaized.net/exp=1582990917~acl=/hls-b/ingest_101_*/*~hmac=3a338ae96b23bb0b707b4f1be33253e3a6808f222b723fe146022c02aa09f173/hls-b/ingest_101_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", TV ONE
+https://etslive-2-vidio-com.akamaized.net/exp=1582991022~acl=/hls-p/ingest_783_*/*~hmac=3a20420fbb79a871f0c0ffb2937fd7563d7ec1fc4437fcd3a3241509b72e633d/hls-p/ingest_783_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", TRANSTV
+https://etslive-2-vidio-com.akamaized.net/exp=1582991114~acl=/hls-p/ingest_733_*/*~hmac=303d33d58a938942dc5647f1f41fbca6469af878febad2ce8eccaee71c72b9d7/hls-p/ingest_733_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", TRANS7
+https://etslive-2-vidio-com.akamaized.net/exp=1582991182~acl=/hls-p/ingest_734_*/*~hmac=29c8a41e50b91699fff10daf1cdb05a973f0ce3757958e495a063b91f1629d20/hls-p/ingest_734_720p/index.m3u8
+
+#EXTINF:-1 group-title="RCTI+", MNCTV
+https://linier.akamaized.net/live/eds/MNC/sa_hls/MNC-avc1_1000000=5.m3u8
+
+#EXTINF:-1 group-title="VIDIO", MNCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1582991236~acl=/hls-p/ingest_870_*/*~hmac=651924c39db0fd5f90baad335d412410cb53f55cf4b70eff379505b423e4c379/hls-p/ingest_870_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", JAKTV
+https://etslive-2-vidio-com.akamaized.net/exp=1582991282~acl=/hls-p/ingest_5415_*/*~hmac=03ed8cf2066f08d327884d8c911470b4a1cbc04c07f8564cf8474d65b3d8923d/hls-p/ingest_5415_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", GTV
+https://etslive-2-vidio-com.akamaized.net/exp=1582991331~acl=/hls-p/ingest_778_*/*~hmac=bec6c8dc8b26cbbe504361d689eb94772e63371df49bd768db02cebe5ca67fea/hls-p/ingest_778_720p/index.m3u8
+
+#EXTINF:-1 group-title="ITVONLINE", GTV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+
+#EXTINF:-1 group-title="RCTI+", GTV
+https://linier.akamaized.net/live/eds/GTV/sa_hls/GTV-avc1_1000000=5.m3u8
+
+#EXTINF:-1 group-title="VIDIO", NETTV
+https://etslive-2-vidio-com.akamaized.net/exp=1582991382~acl=/hls-p/ingest_875_*/*~hmac=9e3bc342f4ae1b7591675e0e0e55b47d3ccad6e9b91210fa5ef79bde36f31b77/hls-p/ingest_875_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", RTV
+https://etslive-2-vidio-com.akamaized.net/exp=1582991431~acl=/hls-p/ingest_geo_1561_*/*~hmac=657b9f8493aa7167f431c2d08bb14fbbe1baf7c4e8b89a31650451f5a2a85acc/hls-p/ingest_geo_1561_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", O SHOP
+https://etslive-2-vidio-com.akamaized.net/exp=1582991492~acl=/hls-p/ingest_6166_*/*~hmac=374c39116999febd8caf96e092b4fef086997732c5f85d492002b6700ec3134f/hls-p/ingest_6166_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", TVRI
+https://etslive-2-vidio-com.akamaized.net/exp=1582991575~acl=/hls-p/ingest_6441_*/*~hmac=5de087bad13773f962c16d260449f8e10ef0a28db27387a0eba9512a8b13e716/hls-p/ingest_6441_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", MYTV
+https://etslive-2-vidio-com.akamaized.net/exp=1582991618~acl=/hls-p/ingest_6711_*/*~hmac=75d3c11073d429c2d5bd0bc78351c15fb0a132f9b0affd9302b69cb64567a082/hls-p/ingest_6711_720p/index.m3u8
+
+#EXTINF:-1 group-title="VIDIO", DAAITV
+https://etslive-2-vidio-com.akamaized.net/exp=1582991666~acl=/hls-p/ingest_6482_*/*~hmac=81142ec5594a507c6a9bb82f81c507e1af5ac7e159bbd80095bbb2f1e48e9e73/hls-p/ingest_6482_720p/index.m3u8
+
+#EXTINF:-1 group-title="ITVONLINE", RCTI
+http://id6.indostreamingtv.com/live/rcti/2464.ts
