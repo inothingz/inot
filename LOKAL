@@ -10,9 +10,6 @@ https://linier.akamaized.net/live/eds/iNews/sa_hls/iNews-avc1_1000000=3.m3u8
 #EXTINF:-1 group-title="VIDIO", SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1582988574~acl=/hls-b/ingest_204_*/*~hmac=93bf816f7e16cf846367749966673be4701f81b467bd24a0736726f865e61c5b/hls-b/ingest_204_720p/index.m3u8
 
-#EXTINF:-1 group-title="ITVONLINE", SCTV
-http://id1.indostreamingtv.com/live/sctv/1072.ts
-
 #EXTINF:-1 group-title="VIDIO", KOMPASTV
 https://etslive-2-vidio-com.akamaized.net/exp=1582988748~acl=/hls-p/ingest_874_*/*~hmac=a9131b84dccbbdb18aa0ac10f95f1c9c5a28f9895b5a06e168e64069dbe63a84/hls-p/ingest_874_720p/index.m3u8
 
@@ -72,6 +69,3 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582991618~acl=/hls-p/ingest_6711_
 
 #EXTINF:-1 group-title="VIDIO", DAAITV
 https://etslive-2-vidio-com.akamaized.net/exp=1582991666~acl=/hls-p/ingest_6482_*/*~hmac=81142ec5594a507c6a9bb82f81c507e1af5ac7e159bbd80095bbb2f1e48e9e73/hls-p/ingest_6482_720p/index.m3u8
-
-#EXTINF:-1 group-title="ITVONLINE", RCTI
-http://id6.indostreamingtv.com/live/rcti/2464.ts
